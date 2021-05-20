@@ -74,6 +74,8 @@ body {
   }
 }
 
+// elements within the positioned absolute div
+
 .container-absolute {
   position: absolute;
   position: absolute;
@@ -100,7 +102,7 @@ body {
   font-family: "Raleway", Arial, Helvetica, sans-serif;
 }
 
-#score-display {
+#score-wrapper {
   text-align: center;
 }
 
